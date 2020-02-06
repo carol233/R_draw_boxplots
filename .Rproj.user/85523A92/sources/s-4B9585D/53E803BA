@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580878077588.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "53E803BA",
+    "lastKnownWriteTime" : 1580879206,
+    "last_content_update" : 1580879206885,
+    "path" : "~/R_Projects/androzooopen_boxplot/draw2.R",
+    "project_path" : "draw2.R",
+    "properties" : {
+        "cursorPosition" : "32,2",
+        "disableDependencyDiscovery" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
